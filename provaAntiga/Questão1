@@ -1,0 +1,11 @@
+Com relação às classes e interfaces acima faça o que se pede:
+a) Defina cada uma das classes/interface acima de modo a explicar sua função no Framework JUnit.
+Interface Test
+Classe TestCase
+Classe TestSuite
+Classe Assert
+classe TestRunner
+
+b) Liste e explique o modo de execução de ao menos 3 Runners.
+
+c) Como o framework JUnit garante a independência de testes?
